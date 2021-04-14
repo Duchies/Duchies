@@ -1,15 +1,7 @@
 ## Hi there , I'm Aman <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+#### A Student , who like coding 
 ---
-
-
-
-### Connect with me :
-[![Gmail Badge](https://img.shields.io/badge/-amanking8938@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amanking8938@gmail.com)](mailto:amanking8938@gmail.com)
-&nbsp;
-[![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-kumar-308428130/)
-
 <br /> 
----        
 I'm Aman , Student at  Maharaja Surajmal Institute of Technology, New Delhi pursuing B.Tech 💻 in IT (pre-final year).   
 I'm pursuing android app developement as career using Java  and working on projects for the same and some UI/UX Designing as well. I am a highly motivated individual with a passion for constant developing skills and growing professionally. Would love to be a Full Stack Developer and see myself as a Product / Program Manager in my later career.  
 
@@ -26,6 +18,8 @@ I'm pursuing android app developement as career using Java  and working on proje
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<br>
+
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/225px-ISO_C%2B%2B_Logo.svg.png" />
 
 <img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/ios-filled/50/000000/linux.png" />
@@ -34,3 +28,8 @@ I'm pursuing android app developement as career using Java  and working on proje
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
+
+### Connect with me :
+[![Gmail Badge](https://img.shields.io/badge/-amanking8938@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amanking8938@gmail.com)](mailto:amanking8938@gmail.com)
+&nbsp;
+[![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-kumar-308428130/)
