@@ -20,8 +20,14 @@ I'm pursuing android app developement as career using Java  and working on proje
 
 - ✨ I thrive for creativity, innovation and aesthetics
 
-  
-# Thanks to Read about me !! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+  ### Connect with me:
+
+[<img align="left" alt="https://amankumar7017.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt=" https://www.linkedin.com/in/aman-kumar-308428130/| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="amanking8938@gmail.com | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
+<br />
+#  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 
 
