@@ -1,6 +1,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-amanking8938@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amanking8938@gmail.com)](mailto:amanking8938@gmail.com)
+&nbsp;
+[![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-kumar-308428130/)
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aman-kumar-308428130/)
 
 ---
 
