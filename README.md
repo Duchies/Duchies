@@ -25,8 +25,6 @@ I'm pursuing android app developement as career using Java  and working on proje
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<br/>
-
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/225px-ISO_C%2B%2B_Logo.svg.png" />
 
 <img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/ios-filled/50/000000/linux.png" />
