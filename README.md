@@ -1,9 +1,7 @@
 ## Hi there , I'm Aman <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 #### A Student , who like coding 
 --- 
-<br/> 
-I'm Aman , Student at  Maharaja Surajmal Institute of Technology, New Delhi pursuing B.Tech 💻 in IT (pre-final year).   
-I'm pursuing android app developement as career using Java  and working on projects for the same and some UI/UX Designing as well. I am a highly motivated individual with a passion for constant developing skills and growing professionally. Would love to be a Full Stack Developer and see myself as a Product / Program Manager in my later career.  
+- ⚡ Student at Maharaja Surajmal Institute of Technology, New Delhi pursuing B.Tech 💻 in Information Technology (pre-final year) and Diploma holder in same branch.
 
 ### Tools ans Technology :
 
