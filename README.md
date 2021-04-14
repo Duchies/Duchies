@@ -19,6 +19,7 @@ I'm pursuing android app developement as career using Java  and working on proje
 
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 
+<b>
 <img align="left" alt="photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/99px-Adobe_Photoshop_CC_icon.svg.png" />
 
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
