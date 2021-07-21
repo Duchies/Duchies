@@ -1,7 +1,7 @@
 ## Hi there , I'm Aman <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 #### A Student , who like coding 
 --- 
-- ⚡ Student at Maharaja Surajmal Institute of Technology, New Delhi pursuing B.Tech 💻 in Information Technology (pre-final year) and Diploma holder in same branch.
+- ⚡ Student at Maharaja Surajmal Institute of Technology, New Delhi pursuing B.Tech 💻 in Information Technology (final year) and Diploma holder in same branch.
 
 ### Tools ans Technology :
 
