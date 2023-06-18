@@ -5,7 +5,7 @@
 
 ### Tools ans Technology :
 
-<img align="left" alt="Golang" width="26px" src="https://icons8.com/icon/44442/golang-logo.png" />
+<img align="left" alt="Golang" width="26px" src="https://img.icons8.com/?size=512&id=44442&format=png" />
 
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 
