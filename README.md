@@ -7,8 +7,7 @@
 
 <img align="left" alt="Golang" width="26px" src="https://img.icons8.com/?size=512&id=44442&format=png" />
 
-<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-
+<img align="left" alt="Kubernetese" width="26px" src="https://img.icons8.com/?size=512&id=cvzmaEA4kC0o&format=png" />
 
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 
