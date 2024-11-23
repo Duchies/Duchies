@@ -1,7 +1,12 @@
 ## Hi there , I'm Aman <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 #### A Software Engineer, who like coding 
 --- 
-- ⚡ Bachelor of Technology💻 in Information Technology and Diploma holder in information technology enabled service and management.
+- ⚡ Hi! I'm Aman Kumar, a Software Engineer with 2.8+ years of experience at Velotio Technology.
+
+ I'm passionate about building high-performance and efficient software solutions, particularly leveraging Kubernetes and Go to create robust data backup and restore systems.
+My previous experience at Mobikwik and Altrisum Labs has further honed my skills in Java and Android development.
+
+I'm always eager to learn and contribute to innovative projects. Feel free to connect and discuss opportunities in the tech industry!
 
 ### Tools ans Technology :
 
@@ -19,8 +24,6 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/225px-ISO_C%2B%2B_Logo.svg.png" />
-
 <img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/ios-filled/50/000000/linux.png" />
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -29,10 +32,9 @@
 <br />
 
 ### Connect with me :
-[![Gmail Badge](https://img.shields.io/badge/-amanking8938@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amanking8938@gmail.com)](mailto:amanking8938@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-amankumar858549@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amankumar858549@gmail.com)](mailto:amankumar858549@gmail.com)
 &nbsp;
 [![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-kumar-308428130/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amankumar7017/)
 
 
 ### Coding profiles :
