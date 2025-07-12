@@ -1,14 +1,14 @@
 ## Hi there , I'm Aman <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 #### A Software Engineer, who like coding 
 --- 
-- ⚡ Hi! I'm Aman Kumar, a Software Engineer with 2.8+ years of experience at Velotio Technology.
+- ⚡ Hi! I'm Aman Kumar, a Software Engineer with 3+ years of experience at Velotio Technology.
 
  I'm passionate about building high-performance and efficient software solutions, particularly leveraging Kubernetes and Go to create robust data backup and restore systems.
 My previous experience at Mobikwik and Altrisum Labs has further honed my skills in Java and Android development.
 
 I'm always eager to learn and contribute to innovative projects. Feel free to connect and discuss opportunities in the tech industry!
 
-### Tools ans Technology :
+### Tools and Technology :
 
 <img align="left" alt="Golang" width="26px" src="https://img.icons8.com/?size=512&id=44442&format=png" />
 
